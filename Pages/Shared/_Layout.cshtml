@@ -11,7 +11,6 @@
 </head>
 <body>
     <header>
-        
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light mb-3">
             <div class="container">
                 <div class="relative">
@@ -25,7 +24,7 @@
                 <div class="dropdown">
                     <button onclick="myFunction()" class="dropbtn">MENU</button>
                     <div id="myDropdown" class="dropdown-content">
-                            <a class="nav-link text-dark" asp-area="" asp-action="/Doors">Doors</a>
+                            <a class="nav-link text-dark" href="#section1">Steel Doors</a>
                             <a class="nav-link text-dark" asp-area="" asp-action="/Openers">Openers</a>
                             <a class="nav-link text-dark" asp-area="" asp-action="/Contact">Contact</a>
                     </div>
@@ -38,11 +37,9 @@
             @RenderBody()
         </main>
     </div>
-
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

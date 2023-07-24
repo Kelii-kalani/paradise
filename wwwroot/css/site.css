@@ -32,8 +32,8 @@ li.nav-item {
 }
 
 body {
-    background-image: url('images/plumeria-i-wall-mural.jpg');
-    background-size:cover;
+    width:100vw;
+    height:100vh;
 }
 
 .intro {
@@ -45,7 +45,57 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-* {
+#section1 {
+    background-image: url('images/plumeria-i-wall-mural.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 40vh;
+    font-size: 50px;
+    text-align: center;
+    margin: 10px 5px;
+}
+
+#section2 {
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 10px 5px;
+}
+
+#section3 {
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 10px 5px;
+}
+
+#section4 {
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 10px 5px;
+}
+
+#section5 {
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 10px 5px;
+}
+
+    * {
     box-sizing: border-box
 }
 

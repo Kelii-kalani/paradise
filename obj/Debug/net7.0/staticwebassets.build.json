@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9nj0shA3qV8IiYlplLAHr/dOo182dxpsIIBUIsO27I0=",
+  "Hash": "gOh8Ta7kqoXzYe5NHTfK6F7pHdBRBiaFgBDZh1gVADg=",
   "Source": "paradise",
   "BasePath": "_content/paradise",
   "Mode": "Default",
@@ -355,6 +355,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\images\\pgd-logo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\Plumeria-I-Wall-Mural.jpg",
+      "SourceId": "paradise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\",
+      "BasePath": "_content/paradise",
+      "RelativePath": "css/images/Plumeria-I-Wall-Mural.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\Plumeria-I-Wall-Mural.jpg"
     },
     {
       "Identity": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\site.css",
