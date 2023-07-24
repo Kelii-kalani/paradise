@@ -31,6 +31,20 @@ li.nav-item {
     left:-110px;
 }
 
+body {
+    background-image: url('images/plumeria-i-wall-mural.jpg');
+    background-size:cover;
+}
+
+.intro {
+    width:500px;
+    position:absolute;
+    left:100px;
+    bottom:-100px;
+    background-color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 * {
     box-sizing: border-box
 }
@@ -41,7 +55,6 @@ li.nav-item {
     height: 400px;
     position: absolute;
     left: 100px;
-    margin: auto;
 }
 
 /* Hide the images by default */
@@ -52,12 +65,12 @@ li.nav-item {
 /* Fading animation */
 .fade {
     animation-name: fade;
-    animation-duration: 8s;
+    animation-duration: 10s;
 }
 
 @keyframes fade {
     from {
-        opacity: .4
+        opacity: .8
     }
 
     to {
