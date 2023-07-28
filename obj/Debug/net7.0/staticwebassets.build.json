@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gOh8Ta7kqoXzYe5NHTfK6F7pHdBRBiaFgBDZh1gVADg=",
+  "Hash": "DSPzALnyqK4UguFL1p3yuxxGMBJtOSn2me5hL0kZFO8=",
   "Source": "paradise",
   "BasePath": "_content/paradise",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kelii\\source\\repos_2\\paradise\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\paradise.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\brown-wood.jpg",
+      "SourceId": "paradise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\",
+      "BasePath": "_content/paradise",
+      "RelativePath": "css/images/brown-wood.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\brown-wood.jpg"
     },
     {
       "Identity": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\IMG-0223.jpg",
