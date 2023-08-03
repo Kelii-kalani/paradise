@@ -12,6 +12,7 @@ html {
   position: relative;
   min-height: 100%;
 }
+
 /*The navigation bar*/
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
     box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
@@ -41,7 +42,7 @@ img.logo {
     text-decoration: none;
     font-family:'Times New Roman', Times, serif;
     font-weight:bold;
-    font-size:30px;
+    font-size:20px;
     position:relative;
     left:-100px;
 }
@@ -52,56 +53,79 @@ img.logo {
 
 li.nav-item {
     font-weight:bolder;
-    font-size:25px;
+    font-size:10px;
     position:relative;
     left:-110px;
-}
-
-#space {
-    width:90vw;
-    height:11vh;
-    margin: 5px 5px;
 }
 
 body {
     width: 100vw;
     height: 100vh;
+    padding-top: 100px;
     background-color: teal;
     background-size: cover;
 }
 
+#space1 {
+    position: relative;
+    top: -85px;
+}
+
 .intro {
-    font-family:'Times New Roman', Times, serif;
-    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 .intro p {
-    font-size:15px;
-    font-weight:bold;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 #section1 {
     background-image: url('images/plumeria-i-wall-mural.jpg');
     background-size: cover;
-    width: 90vw;
-    height: 40vh;
+    width: 50vw;
+    height: 45vh;
     text-align: center;
     margin: 5px 5px;
-    position:relative;
-    left:-50px;
-    z-index:1;
+    position: relative;
+    left: -100px;
+    z-index: 1;
+    border: 5px solid beige;
+    scroll-padding-top:100px;
+}
+
+#space2 {
+    position: relative;
+    top: -85px;
+}
+
+.steelLongPanel {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.steelLongPanel p {
+    font-size: 15px;
+    font-weight: bold;
 }
 
 #section2 {
     background-image: url('images/plumeria-i-wall-mural.jpg');
     background-size: cover;
-    width: 90vw;
-    height: 40vh;
+    width: 50vw;
+    height: 30vh;
     text-align: center;
     margin: 5px 5px;
     position: relative;
-    left: -50px;
+    right: -600px;
     z-index: 1;
+    border: 5px solid beige;
+}
+
+#space3 {
+    position: relative;
+    top: -85px;
 }
 
 #section3 {
@@ -116,6 +140,11 @@ body {
     z-index: 1;
 }
 
+#space4 {
+    position: relative;
+    top: -85px;
+}
+
 #section4 {
     background-image: url('images/plumeria-i-wall-mural.jpg');
     background-size: cover;
@@ -126,6 +155,11 @@ body {
     position: relative;
     left: -50px;
     z-index: 1;
+}
+
+#space5 {
+    position: relative;
+    top: -85px;
 }
 
 #section5 {
@@ -140,7 +174,29 @@ body {
     z-index: 1;
 }
 
+#space6 {
+    position: relative;
+    top: -85px;
+}
+
 #section6 {
+    background-image: url('images/plumeria-i-wall-mural.jpg');
+    background-size: cover;
+    width: 90vw;
+    height: 40vh;
+    text-align: center;
+    margin: 5px 5px;
+    position: relative;
+    left: -50px;
+    z-index: 1;
+}
+
+#space7 {
+    position: relative;
+    top: -85px;
+}
+
+#section7 {
     background-image: url('images/plumeria-i-wall-mural.jpg');
     background-size: cover;
     width: 90vw;
@@ -164,11 +220,6 @@ div.gallery {
         width: 100%;
         height: auto;
     }
-
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
 
 * {
     box-sizing: border-box;
