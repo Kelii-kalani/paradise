@@ -9,12 +9,32 @@
       "PackagePath": "staticwebassets\\css\\images\\Plumeria-I-Wall-Mural.jpg"
     },
     {
-      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\brown-wood.jpg",
-      "PackagePath": "staticwebassets\\css\\images\\brown-wood.jpg"
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\custom1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\custom1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\custom2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\custom2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\custom3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\custom3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\custom4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\custom4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\custom5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\custom5.jpg"
     },
     {
       "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\glass1.jpg",
       "PackagePath": "staticwebassets\\css\\images\\glass1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\glass10.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\glass10.jpg"
     },
     {
       "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\glass2.jpg",
@@ -27,6 +47,26 @@
     {
       "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\glass4.jpg",
       "PackagePath": "staticwebassets\\css\\images\\glass4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\glass5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\glass5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\glass6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\glass6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\glass7.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\glass7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\glass8.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\glass8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\glass9.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\glass9.jpg"
     },
     {
       "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\liftmaster-8160W.png",
@@ -53,32 +93,64 @@
       "PackagePath": "staticwebassets\\css\\images\\pgd-logo.jpg"
     },
     {
-      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steel1.jpg",
-      "PackagePath": "staticwebassets\\css\\images\\steel1.jpg"
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steelL1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\steelL1.jpg"
     },
     {
-      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steel2.jpg",
-      "PackagePath": "staticwebassets\\css\\images\\steel2.jpg"
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steelL2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\steelL2.jpg"
     },
     {
-      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steel3.jpg",
-      "PackagePath": "staticwebassets\\css\\images\\steel3.jpg"
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steelL3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\steelL3.jpg"
     },
     {
-      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steel4.jpg",
-      "PackagePath": "staticwebassets\\css\\images\\steel4.jpg"
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steelL4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\steelL4.jpg"
     },
     {
-      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steel5.jpg",
-      "PackagePath": "staticwebassets\\css\\images\\steel5.jpg"
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steelL5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\steelL5.jpg"
     },
     {
-      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steel6.jpg",
-      "PackagePath": "staticwebassets\\css\\images\\steel6.jpg"
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steelL6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\steelL6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\steelL7.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\steelL7.jpg"
     },
     {
       "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\wood1.jpg",
       "PackagePath": "staticwebassets\\css\\images\\wood1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\wood2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\wood2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\wood3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\wood3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\wood4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\wood4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\wood5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\wood5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\wood6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\wood6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\wood7.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\wood7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\images\\wood8.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\wood8.jpg"
     },
     {
       "Id": "C:\\Users\\kelii\\source\\repos_2\\paradise\\wwwroot\\css\\site.css",
